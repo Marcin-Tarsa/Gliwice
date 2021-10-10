@@ -1,0 +1,106 @@
+.baner{
+text-align: center;
+}
+
+body{
+	background-color: green;
+}
+
+.zdjecie1 {
+	width:auto;
+	height:auto;
+	position: relative;
+	float: left;
+	right: 0px;
+	padding: 15px;
+
+}
+h1{
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+	display: block;
+}
+
+#menu {
+	background-color: lightgreen;
+	border-width: 1px 0;
+	border-style: solid;
+	border-color: gray;
+	padding: 3px 5%;
+	margin: 0;
+	text-align: center;
+}
+
+#menu li {
+	display: inline;
+	border-right: 1px solid gray;
+	padding: 0 10px;
+}
+
+#menu a {
+	color: #666;
+	font: bold 0.8em Arial, sans-serif;
+	text-decoration: none;
+}
+
+#menu a:hover {
+	color: #333;
+}
+
+
+div{
+	text-align: center;
+}
+
+.wyliczenie{
+	list-style: none;
+}
+
+label{
+	display: block;
+}
+
+.zdjecie2 {
+	width:50%;
+	height:50%;
+	position: relative;
+	float: left;
+	right: 0px;
+	padding: 15px;
+
+}
+
+.tabela1{
+	border: 1px solid black;
+}
+td{
+	border: 1px solid black;
+}
+.mapa{
+	width: 400px;
+	height: 400px;
+}
+
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+}
+
+.zdjecie4{
+	width: 50%;
+	height: 500px;
+	float: left;
+	right: 0px;
+	padding: 15px;
+}
+
+.zdjecie5{
+	width: 50%;
+	height: 500px;
+	float: left;
+	right: 0px;
+	padding: 15px;
+}
